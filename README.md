@@ -1,6 +1,6 @@
 # flutter_chat_app
 
-A new Flutter project.
++ Currently testing on mutiple devices
 
 ## Getting Started
 
